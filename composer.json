@@ -5,7 +5,9 @@
         "bin/parcer.php"
 ],
     "require": {
+        "symfony/finder": "^4.0.0",
         "clue/buzz-react": "^2.3",
-        "symfony/dom-crawler": "^3.4"
+        "symfony/dom-crawler": "^3.4",
+        "symfony/css-selector": "^3.4"
     }
 }
