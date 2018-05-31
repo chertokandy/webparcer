@@ -1,4 +1,3 @@
-#!/usr/bin/php php
 <?php
 require '../../vendor/autoload.php';
 use Clue\React\Buzz\Browser;
