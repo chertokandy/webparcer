@@ -1,5 +1,5 @@
 {
-    "name": "chertokdmitry/parcer",
+    "name": "chertokdmitry/webparcer",
     "description": "parcer project",
     "bin": [
         "bin/parcer.php"
